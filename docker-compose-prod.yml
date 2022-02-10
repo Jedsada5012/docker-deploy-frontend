@@ -3,4 +3,4 @@ services:
   frontend:
     image: jedsada31/234-deploylab-frontend-prod:latest
     ports:
-      - "9999:80"
+      - "9995:80"
